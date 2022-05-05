@@ -1,0 +1,58 @@
+{
+    "tractId": 1,
+    "tractName": "Hello",
+    "county": "Chesterfield",
+    "state": "Virginia",
+    "map": "[]",
+    "population": {
+        "genderRatio":{
+            "male": "50%",
+            "female": "50%"
+        },
+        "meansOfTransportation":{
+            "car": 50
+        },
+
+        "raceEthnicity":{
+            "white": 90,
+            "black": 5,
+            "hispanic": 10,
+            "asian": 5
+        },
+        "languages":{
+            "english": 90,
+            "spanish": 10
+        },
+        "averageIncome":50000,
+        "medianHouseholdIncome": 40000,
+        "education": {
+            "collegePercent": 50,
+            "advancePercent": 20
+        }
+    },
+    "realEstate":{
+        "avgHomeValue":{
+            "medianHomeValue":15000,
+            "medianRealEstateValue": 1500
+        },
+        "rentByRoom": {
+            "one": 1000,
+            "two": 1200,
+            "three": 1500
+        },
+        "grossRentalYeald": 1000,
+        "typesOfHomes":{
+            "single": 50,
+            "multifamily": 5
+        },
+        "ageOfHouses":{
+            "fifty": 50
+        },
+        "homeOwnership":{
+            "own": 70,
+            "rent": 30
+        }
+
+
+    }
+}
